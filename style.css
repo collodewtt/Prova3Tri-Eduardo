@@ -1,0 +1,28 @@
+body {
+    background-color: rgba(31, 31, 31, 0.817);
+    margin: 0px
+}
+
+nav a {
+    margin-top: 5px;
+    padding: 2px;
+    font-size: 20px;
+    color:rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    color: rgb(136, 7, 7);
+    padding-top: 5%;
+}
+.neyv1 {
+    font-style: italic;
+}
+
+.img1 {
+    width: 50%;
+}
+
+.centraofi {
+    text-align: center;
+}
